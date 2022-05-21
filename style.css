@@ -1,0 +1,57 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    
+}
+body{
+    background-image: url(bg.png);
+    color: white;
+}
+.image{
+    text-align: left;
+ }
+ 
+
+.seaction1{
+    text-align: center;
+    /* margin-top: 20px; */
+    font-size: 20px;
+    font-weight: bold;
+}
+input{
+    width: 300px;
+    height: 30px;
+    background-color: rgb(245, 235, 235);
+    border: none;
+    color: black;
+    font-weight: bold;
+}
+button{
+    height: 30px;
+    width: 150px;
+    background-color: cadetblue;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+h5{
+    margin: 10px;
+}
+
+    
+
+.text h1{
+    margin-top: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 80px;
+
+}
+ .card{
+     /* margin-top: 50px; */
+     display: flex;
+     justify-content: center;
+     align-items: center;
+    padding: 150px;
+ }
